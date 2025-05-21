@@ -15,6 +15,8 @@ attach(nycflights13::flights)
 # Lets look at the first 6 records using the head()function
 head(nycflights13::flights)
 
+
+
 nycflights13::flights
 
 summary(distance)
